@@ -12,8 +12,9 @@
   }
   
   .chip {
-    background-color: #121212;
-    border: 1px solid #ccc;
+    background-color: white;
+    border: 1px solid #121212;
+    color: #121212;
     padding: 5px 10px;
     margin: 5px;
     border-radius: 25px;
@@ -36,8 +37,9 @@
   .items-list li {
     padding: 5px;
     margin: 5px;
-    border: 1px solid #ccc;
     border-radius: 5px;
-    background-color: #121212;
+    background-color: white;
+    border: 1px solid #121212;
+    color: #121212;
   }
   
